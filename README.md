@@ -26,25 +26,27 @@ Social Network Application is a full-stack platform built to connect and engage 
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🖥️ Web Application Interfaces
 
 #### 🔐 Login Page  
-![Login Page](screenshots/login.jpg)
+![Login Page](screenshots/login.png)
 
 #### 🆕 Signup Page  
-![Signup Page](screenshots/signup.jpg)
+![Signup Page](screenshots/signup.png)
 
 #### 🏠 Home Feed  
-![Home Page](screenshots/home.jpg)
+![Home Page](screenshots/home.png)
 
 #### 👤 User Profile  
-![User Profile](screenshots/user-profile.jpg)
+![User Profile](screenshots/user-profile.png)
 
 #### ⚙️ Edit Profile  
-![Edit Profile](screenshots/edit-profile.jpg)
+![Edit Profile](screenshots/edit-profile.png)
 
 #### ✏️ Create Post  
-![Create Post](screenshots/create-post.jpg)
+![Create Post](screenshots/create-post.png)
 
 ---
 
