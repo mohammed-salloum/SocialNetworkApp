@@ -28,11 +28,11 @@ Social Network Application is a full-stack platform built to connect and engage 
 
 ### 🖥️ Web Application Interfaces
 
-#### 🔐 Login Page  
-![Login Page](screenshots/login.png)
-
 #### 🆕 Signup Page  
 ![Signup Page](screenshots/signup.png)
+
+#### 🔐 Login Page  
+![Login Page](screenshots/login.png)
 
 #### 🏠 Home Feed  
 ![Home Feed](screenshots/home.png)
