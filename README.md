@@ -28,23 +28,23 @@ Social Network Application is a full-stack platform built to connect and engage 
 
 ### 🖥️ Web Application Interfaces
 
-#### 🔐 Login Page  
-![Login Page](screenshots/login.png)
-
 #### 🆕 Signup Page  
 ![Signup Page](screenshots/signup.png)
 
+#### 🔐 Login Page  
+![Login Page](screenshots/login.png)
+
 #### 🏠 Home Feed  
 ![Home Feed](screenshots/home.png)
+
+#### ✏️ Create Post  
+![Create Post](screenshots/create-post.png)
 
 #### 👤 User Profile  
 ![User Profile](screenshots/user-profile.png)
 
 #### ⚙️ Edit Profile  
 ![Edit Profile](screenshots/edit-profile.png)
-
-#### ✏️ Create Post  
-![Create Post](screenshots/create-post.png)
 
 ---
 
@@ -57,3 +57,26 @@ Social Network Application is a full-stack platform built to connect and engage 
 ## 📌 Notes
 
 This project was created as a personal initiative to practice full-stack web development using Django and Bootstrap. It reflects essential social network features in a secure and user-friendly environment.
+
+---
+
+## 📝 Future Improvements
+
+🖼️ Support for image uploads in posts
+
+📬 Notification system
+
+📄 Pagination and infinite scroll
+
+🌍 Multi-language support
+
+📈 Admin dashboard for content moderation
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Salloum**  
+Full-Stack Developer | Python & Django Enthusiast
+📧 mohammed.e.salloum@gmail.com  
+🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
