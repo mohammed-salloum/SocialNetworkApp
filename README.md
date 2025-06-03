@@ -61,6 +61,7 @@ This project was created as a personal initiative to practice full-stack web dev
 ---
 
 📝 Future Improvements
+
 🖼️ Support for image uploads in posts
 
 📬 Notification system
@@ -76,5 +77,7 @@ This project was created as a personal initiative to practice full-stack web dev
 🙌 Author
 Mohammed Salloum
 Full-Stack Developer | Python & Django Enthusiast
+
 📧 mohammed.e.salloum@gmail.com
+
 🔗 [LinkedIn)](https://linkedin.com/in/mohammed-salloum-dev)
