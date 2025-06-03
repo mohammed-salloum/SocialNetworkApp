@@ -60,7 +60,7 @@ This project was created as a personal initiative to practice full-stack web dev
 
 ---
 
-📝 Future Improvements
+## 📝 Future Improvements
 
 🖼️ Support for image uploads in posts
 
