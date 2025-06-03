@@ -77,6 +77,6 @@ This project was created as a personal initiative to practice full-stack web dev
 ## 👨‍💻 Author
 
 **Mohammed Salloum**  
-Full-Stack Developer | Python & Django Enthusiast  
+Full-Stack Developer | Python & Django Enthusiast
 📧 mohammed.e.salloum@gmail.com  
 🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
