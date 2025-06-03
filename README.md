@@ -80,4 +80,4 @@ Full-Stack Developer | Python & Django Enthusiast
 
 📧 mohammed.e.salloum@gmail.com
 
-🔗 [LinkedIn)](https://linkedin.com/in/mohammed-salloum-dev)
+🔗 [LinkedIn](https://linkedin.com/in/mohammed-salloum-dev)
