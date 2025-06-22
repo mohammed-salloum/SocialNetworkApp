@@ -75,5 +75,6 @@ Full source code and project files available here:
 
 **Mohammed Salloum**  
 Full-Stack Developer | Django & Front-End Specialist
+
 📧 mohammed.e.salloum@gmail.com 
 🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
