@@ -1,6 +1,6 @@
 # 🌐 Social Network Application – Full-Stack Web Application
 
-### 🛠️ Personal Project – May 2025
+### 🛠️ Personal Project | May 2025
 
 Social Network Application is a full-stack platform built to connect and engage users, developed with Python Django and SQLite. It features user registration, profile management, text post creation, user search, and follow functionality. The app is crafted with simplicity and security in mind, ensuring a smooth user experience across all devices with a responsive Bootstrap 5 frontend.
 
@@ -50,13 +50,10 @@ Social Network Application is a full-stack platform built to connect and engage 
 
 ## 📂 Repository
 
+Full source code and project files available here:
+
 🔗 [SocialNetworkApp — GitHub Repository](https://github.com/mohammed-salloum/SocialNetworkApp)
 
----
-
-## 📌 Notes
-
-This project was created as a personal initiative to practice full-stack web development using Django and Bootstrap. It reflects essential social network features in a secure and user-friendly environment.
 
 ---
 
@@ -78,6 +75,5 @@ This project was created as a personal initiative to practice full-stack web dev
 
 **Mohammed Salloum**  
 Full-Stack Developer | Django & Front-End Specialist
-
 📧 mohammed.e.salloum@gmail.com 
 🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
